@@ -1,0 +1,95 @@
+
+#title {
+  background-color: #14274E;
+  text-align: left;
+}
+
+.title-fluid{
+  padding: 20% 10%;
+}
+.container-fluid {
+  padding: 60px 10%;
+}
+
+
+.nav-item {
+  padding: 0 10px;
+}
+
+.nav-link {
+  font-size: 1rem;
+  font-family: 'Montserrat';
+  font-weight: 300;
+}
+
+
+.big-heading{
+  font-family: 'Montserrat';
+  font-weight: 900;
+  color: #fff;
+  text-align: center;
+}
+
+.about-text{
+  font-family: 'Montserrat';
+  font-weight: 500;
+  text-align: justify;
+  padding-top: 80px;
+}
+
+.title-image{
+  margin: auto;
+
+}
+
+#skills{
+  background-color: #126E82;
+  text-align: center;
+}
+
+.frontend-image{
+  width: 60px;
+  height: 60px;
+}
+
+.section-heading{
+  font-family: 'Montserrat';
+  font-weight: 700;
+  text-align: center;
+  padding: 10px;
+}
+
+#experience{
+  background-color: #1687A7;
+}
+
+.cardpadding{
+  padding-top: 20px;
+}
+
+#my-work{
+  background-color: #D0E8F2;
+  text-align: center;
+}
+
+#contact-me{
+  background-color: #14274E;
+  color: #D0E8F2;
+}
+
+#footer{
+  text-align: center;
+  background-color: #99A8B2;
+}
+#footer .container-fluid {
+  padding: 10px ;
+}
+.footer-icon{
+  padding: 15px;
+  color: black;
+}
+
+.footer-icon:hover{
+  color: #52057B;
+  opacity: 0.7;
+}
