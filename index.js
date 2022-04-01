@@ -1,6 +1,8 @@
 new TypeIt(".big-heading", {
-  strings: ["Hello,", "I'm Arya Danih Lesmana"],
-  speed: 150,
+  strings: "Hi, I'am Arya Danih Lesmana",
+  speed: 120,
+  pause: 300,
   waitUntilVisible: true,
+  loop: true,
 
 }).go();
